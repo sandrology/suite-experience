@@ -1,0 +1,313 @@
+[
+  {
+    "id": "5",
+    "enabled": true,
+    "images": [
+      "https://lp-cms-production.imgix.net/2025-01/Shutterstock2145006939.jpg?auto=format,compress&q=72&w=1440&h=810&fit=crop"
+    ],
+    "translations": {
+      "en": {
+        "title": "Costiera Amalfitana Tour (car)",
+        "description": "Embark on an enchanting journey along the Amalfi Coast in the comfort of a private car, exploring picturesque towns and breathtaking landscapes at your own pace.",
+        "content": "<h2><b>Minori – A Sweet Beginning</b></h2><p>Begin your adventure in Minori, a charming coastal town renowned for its rich history and culinary delights. Indulge in the famous \"Delizia al Limone\" at Pasticceria De Riso, a lemon-infused dessert that embodies the essence of the region.</p><p><br></p><h2><b>Atrani – The Smallest Gem</b></h2><p>Next, visit Atrani, Europe's smallest commune, where narrow alleys and quaint piazzas offer an authentic glimpse into traditional Italian life. Its serene atmosphere provides a perfect contrast to the bustling neighboring towns.</p><p><br></p><h2><b>Amalfi – Iconic and Majestic</b></h2><p>Proceed to Amalfi, the heart of the coast, home to the stunning Duomo di Sant'Andrea. This architectural masterpiece, with its grand staircase and intricate façade, stands as a testament to the town's historical significance. Take time to explore the vibrant streets and perhaps enjoy a coffee in the lively Piazza del Duomo.</p><p><br></p><h2><b>Praiano and the Fiordo di Furore</b></h2><p>Continue your drive through Praiano, a peaceful village offering panoramic sea views. Nearby, discover the Fiordo di Furore, a hidden fjord with a secluded beach, providing a picturesque spot for memorable photographs.</p><p><br></p><h2><b>Positano – Picture-Perfect Paradise</b></h2><p>Arrive in Positano, famed for its colorful cliffside houses and boutique shops. Stroll through its steep streets, visit the iconic Spiaggia Grande, and immerse yourself in the town's romantic ambiance.</p><p><br></p><h2><b>The Final Stretch: Ravello or Sorrento</b></h2><p>Depending on your preferences, choose to visit:</p><p><b>Ravello</b>: Perched high above the sea, known for its elegant villas and lush gardens.</p><p><b>Sorrento</b>: A lively town overlooking the Bay of Naples, famous for its lemon groves.</p><p><br></p>"
+      },
+      "it": {
+        "title": "Costriera Amalfitana tour (Auto)",
+        "description": "Intraprendi un affascinante viaggio lungo la Costiera Amalfitana nel comfort di un'auto privata, esplorando pittoreschi paesini e paesaggi mozzafiato con i tuoi tempi.",
+        "content": "<h2><b>Minori – Un Dolce Inizio</b></h2><p>Inizia la tua avventura a Minori, un incantevole paesino costiero noto per la sua ricca storia e delizie culinarie. Gusta la famosa \"Delizia al Limone\" presso la Pasticceria De Riso, un dessert al limone che incarna l'essenza della regione.</p><p><br></p><h2><b>Atrani – Il Più Piccolo Gioiello</b></h2><p>Prosegui per Atrani, il comune più piccolo d'Europa, dove vicoli stretti e piazzette offrono uno scorcio autentico della vita italiana tradizionale.</p><p><br></p><h2><b>Amalfi – Iconica e Maestosa</b></h2><p>Visita Amalfi, cuore della costiera, con il suo splendido Duomo di Sant'Andrea, capolavoro architettonico che testimonia l'importanza storica della città.</p><p><br></p><h2><b>Praiano e il Fiordo di Furore</b></h2><p>Scopri il Fiordo di Furore, una caletta nascosta perfetta per foto indimenticabili.</p><p><br></p><h2><b>Positano – Paradiso da Cartolina</b></h2><p>Passeggia tra le case colorate a picco sul mare e visita la celebre Spiaggia Grande.</p><p><br></p><h2><b>Tappa Finale: Ravello o Sorrento</b></h2><p><b>Ravello</b>: Con le sue ville eleganti e giardini lussureggianti.</p><p><b>Sorrento</b>: Vivace cittadina famosa per i limoneti.</p><p><br></p>"
+      }
+    },
+    "price": 350,
+    "duration": "6 hours",
+    "location": "Amalfi Coast, Italy",
+    "rating": 4.9,
+    "maxPeople": 4,
+    "reviews": [
+      {
+        "name": "Sophia R.",
+        "rating": 5,
+        "comment": "Perfect day!"
+      },
+      {
+        "name": "Marco T.",
+        "rating": 5,
+        "comment": "Bellissimo tour"
+      },
+      {
+        "name": "Emma L.",
+        "rating": 5,
+        "comment": "Worth every euro"
+      },
+      {
+        "name": "Giovanni B.",
+        "rating": 5,
+        "comment": "Fantastico"
+      },
+      {
+        "name": "Olivia K.",
+        "rating": 5,
+        "comment": "Amazing experience"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "enabled": true,
+    "images": [
+      "https://immagini.insella.it/sites/default/files/styles/2480w/public/news_anteprima/2023/07/amalfitana.jpg.webp"
+    ],
+    "translations": {
+      "en": {
+        "title": "Costiera Amalfitana Tour (Moto)",
+        "description": "Embark on a thrilling adventure through the enchanting landscapes of the Amalfi Coast, from Minori to Sorrento, all from the saddle of a motorcycle or Vespa, along one of the world's most iconic and scenic routes.",
+        "content": "<h2><b>Unforgettable Ride</b></h2><p>Feel the wind in your hair as you navigate the twists and turns of the Amalfi Coast's legendary roads, immersing yourself in its mesmerizing beauty.</p><p><br></p><h2><b>Freedom to Explore</b></h2><p>Pause whenever inspiration strikes to capture stunning photos or videos.</p><p><br></p><h2><b>Escape the Crowds</b></h2><p>Leave the traffic behind as you carve your way through the coastal roads.</p><p><br></p><h2><b>Tailored to You</b></h2><p>With a duration of approximately 5 hours, our tours are fully customizable to your preferences.</p><p><br></p><p>*Price per person<br></p>"
+      },
+      "it": {
+        "title": "Tour in Moto della Costiera",
+        "description": "Vivi un'avventura emozionante attraverso i paesaggi incantevoli della Costiera Amalfitana, in sella a una moto o Vespa, lungo una delle strade più iconiche al mondo.",
+        "content": "<h2><b>Viaggio Indimenticabile</b></h2><p>Sentire il vento tra i capelli mentre percorri le leggendarie strade a tornanti della Costiera.</p><p><br></p><h2><b>Libertà di Esplorare</b></h2><p>Fermati quando vuoi per scattare foto mozzafiato.</p><p><br></p><h2><b>Lontano dalla Folla</b></h2><p>Scappa dal traffico immergendoti nelle strade costiere.</p><p><br></p><h2><b>Personalizzato per Te</b></h2><p>Tour di circa 5 ore completamente adattabile ai tuoi desideri.</p><p><br></p><p>*Prezzo a persona<br></p>"
+      }
+    },
+    "price": 130,
+    "duration": "4 hours",
+    "location": "Amalfi Coast, Italy",
+    "rating": 4.8,
+    "maxPeople": 2,
+    "reviews": [
+      {
+        "name": "Luca F.",
+        "rating": 5,
+        "comment": "Adrenaline!"
+      },
+      {
+        "name": "Isabella M.",
+        "rating": 5,
+        "comment": "Best ride ever"
+      },
+      {
+        "name": "Thomas W.",
+        "rating": 5,
+        "comment": "Incredible"
+      },
+      {
+        "name": "Alessia P.",
+        "rating": 5,
+        "comment": "Fantastico"
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "enabled": true,
+    "images": [
+      "https://www.partenopeintour.com/wp-content/uploads/2024/09/napoli-notte-hd-1600x600.jpg"
+    ],
+    "translations": {
+      "en": {
+        "title": "Naples Tour",
+        "description": "Embark on a journey through Naples' authentic neighborhoods with our customizable \"Hidden Gems Tour.\"",
+        "content": "<h2><b>Hidden Treasures Include:</b></h2><p><b>Hidden Museums</b>: Discover secret galleries and collections that house rare artifacts and artworks, offering an intimate glimpse into Naples' rich cultural tapestry.</p><p><br></p><p><b>Ancient Churches with Mystical Traditions</b>: Step into centuries-old sanctuaries where age-old rituals and enigmatic symbols whisper tales of the past.</p><p><br></p><p><b>Historic Residences and Mysterious Palaces</b>: Wander through quaint homes steeped in history and grand palaces shrouded in mystery, each with stories waiting to be unveiled.</p><p><br></p><p>Our tour is highly <b>customizable</b>, allowing you to delve into the aspects that intrigue you the most.</p><p>(Including car shuttle from Suite n5)</p>"
+      },
+      "it": {
+        "title": "Tour di Napoli",
+        "description": "Scopri i quartieri autentici di Napoli con il nostro tour personalizzato \"Tesori Nascosti\", pensato per chi vuole esplorare angoli meno conosciuti della città.",
+        "content": "<h2><b>Include:</b></h2><p><b>Musei Nascosti</b>: Scopri gallerie segrete e collezioni che ospitano rari manufatti e opere d'arte, offrendo uno sguardo intimo sul ricco patrimonio culturale di Napoli.</p><p><br></p><p><b>Antiche Chiese con Tradizioni Mistiche</b>: Entra in santuari secolari dove rituali antichi e simboli enigmatici sussurrano storie del passato.</p><p><br></p><p><b>Residenze Storiche e Palazzi Misteriosi</b>: Passeggia tra case pittoresche intrise di storia e grandiosi palazzi avvolti nel mistero, ognuno con storie pronte a essere svelate.</p><p><br></p><p>Il nostro tour è altamente <b>personalizzabile</b>, permettendoti di approfondire gli aspetti che più ti affascinano.</p><p>(incluso il servizio navetta dalla Suite n5)</p>"
+      }
+    },
+    "price": 160,
+    "duration": "4.5 hours",
+    "location": "Naples, Italy",
+    "rating": 4.7,
+    "maxPeople": 4,
+    "reviews": [
+      {
+        "name": "Roberto C.",
+        "rating": 5,
+        "comment": "Fascinating"
+      },
+      {
+        "name": "Elena S.",
+        "rating": 5,
+        "comment": "Hidden Naples!"
+      },
+      {
+        "name": "Daniel K.",
+        "rating": 5,
+        "comment": "Great tour"
+      },
+      {
+        "name": "Francesca L.",
+        "rating": 5,
+        "comment": "Molto interessante"
+      },
+      {
+        "name": "Paul M.",
+        "rating": 5,
+        "comment": "Unique experience"
+      },
+      {
+        "name": "Chiara R.",
+        "rating": 5,
+        "comment": "Super consigliato"
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "enabled": true,
+    "images": [
+      "https://www.cantinedidolianova.it/wp-content/uploads/2021/11/quanto-rende-un-ettaro-di-vigneto.jpg"
+    ],
+    "translations": {
+      "en": {
+        "title": "Winery Tour",
+        "description": "A journey through vineyards and seaside landscapes",
+        "content": "<h2><b>Itinerary</b></h2><p><b>Amalfi</b>: Our first stop will be in Amalfi, where you'll have the chance to explore the square and the Duomo for approximately 40 minutes (unguided).</p><p><br></p><p><b>Atrani</b>: Next, we'll venture to Atrani for around 30 minutes (unguided).</p><p><br></p><p><b>Ravello</b>: We will visit the Duomo and Villa Ruffolo (Admission tickets included).</p><p><br></p><p><b>Tenuta San Francesco</b>: At 1:00 p.m., we'll indulge in an authentic experience for a wine tasting and lunch. Includes tours of historical vineyards (300-500 years old) and XVII century wine cellar. Enjoy lunch with traditional products and taste three D.O.C reserve wines plus sparkling wine (2-2.5 hours).</p><p><br></p><p><b>Praiano</b>: Our final stop will be in Praiano for a leisurely walk and aperitif at Il Pirata.</p><p><b>/b></p>"
+      },
+      "it": {
+        "title": "Tour Enogastronomico",
+        "description": "Un viaggio tra vigneti e paesaggi costieri",
+        "content": "<h2><b>Itinerario</b></h2><p><b>Amalfi</b>: Prima tappa ad Amalfi per esplorare la piazza e il Duomo (40 minuti, visita libera).</p><p><br></p><p><b>Atrani</b>: Visita di circa 30 minuti in autonomia.</p><p><br></p><p><b>Ravello</b>: Visita al Duomo e Villa Rufolo (biglietti inclusi).</p><p><br></p><p><b>Tenuta San Francesco</b>: Degustazione vini e pranzo con prodotti tipici. Tour dei vigneti storici e cantina del XVII secolo. Degustazione di 3 vini D.O.C. riserva e uno spumante (2-2.5 ore).</p><p><br></p><p><b>Praiano</b>: Tappa finale con passeggiata e aperitivo da Il Pirata.</p><p><b></b></p>"
+      }
+    },
+    "price": 450,
+    "duration": "5",
+    "location": "Amalfi Coast, Italy",
+    "rating": 4.9,
+    "maxPeople": 4,
+    "reviews": [
+      {
+        "name": "Giuseppe V.",
+        "rating": 5,
+        "comment": "Vini eccezionali"
+      },
+      {
+        "name": "Sarah J.",
+        "rating": 5,
+        "comment": "Perfect day"
+      },
+      {
+        "name": "Matteo D.",
+        "rating": 5,
+        "comment": "Indimenticabile"
+      },
+      {
+        "name": "Anna B.",
+        "rating": 5,
+        "comment": "Fantastic"
+      },
+      {
+        "name": "David L.",
+        "rating": 5,
+        "comment": "Top experience"
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "enabled": true,
+    "images": [
+      "https://images.unsplash.com/photo-1606923829579-0cb981a83e2e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "https://tourismmedia.italia.it/is/image/mitur/2480X1000_massa_lubrense_destination?wid=2480&hei=1000&fit=constrain,1&fmt=webp"
+    ],
+    "translations": {
+      "en": {
+        "title": "Handmade Pasta Workshop ",
+        "description": "A unique cooking experience on a stunning terrace of a Sorrento Coast villa with breathtaking sea views. Michele will teach you the authentic art of Italian pasta making.",
+        "content": "<h2><b>The Authentic Experience</b></h2><p>Learn the secrets of <b>pasta fresca</b> from Michele, in his family's seaside fantastic villa terrace.</span></p><p><br></p><h2><b>Tour Included</b></h2><p>Explore Sorrento and Sorrento Coast with a guided walk through picturesque alleys and a refreshing swim stop in crystal-clear waters.</p><p><br></p><h2><b>What You'll Make</b></h2><p><b>• Tagliatelle</b> - The classic ribbon pasta<br><br></p><h2><b>Enjoy Your Creation</b></h2><p>Dine on the terrace enjoying the pasta you made, paired with local wine and dessert, while taking in the panoramic sea views.<br>Price per person<br></p>"
+      },
+      "it": {
+        "title": "Workshop di Pasta Fresca ★★★★★",
+        "description": "Un'esperienza culinaria unica sulla terrazza di una villa sulla Costiera Sorrentina con vista mozzafiato. Michele, iti insegnerà l'arte autentica della pasta italiana.",
+        "content": "<h2><b>L'Esperienza Autentica</b></h2><p>Impara i segreti della <b>pasta fresca</b> con Michele,&nbsp; sulla terrazza della sua villa affacciata sul mare.</p><p><br></p><h2><b>Tour Incluso</b></h2><p>Esplora Sorrento e la Costiera Sorrentina con una passeggiata tra vicoli pittoreschi e una rinfrescante sosta per un bagno in acque cristalline.</p><p><br></p><h2><b>Cosa Preparerai</b></h2><p><b>• Tagliatelle</b> - La classica pasta&nbsp;<br><br></p><p><br></p><h2><b>Gusta la Tua Creazione</b></h2>Pranza&nbsp;<span style=\"color: rgb(2, 8, 23);\">sulla terrazza gustando la pasta che hai preparato, abbinata a vino locale e dolce, ammirando il panorama.</span><div>Price per person<br></div>"
+      }
+    },
+    "price": 90,
+    "duration": "5 hours",
+    "location": "Sorrento Coast, Italy",
+    "rating": 4.9,
+    "maxPeople": 4,
+    "reviews": [
+      {
+        "name": "Giulia R.",
+        "rating": 5,
+        "comment": "Best pasta ever!"
+      },
+      {
+        "name": "Marco P.",
+        "rating": 5,
+        "comment": "Michele is amazing"
+      },
+      {
+        "name": "Sophie L.",
+        "rating": 5,
+        "comment": "Unforgettable"
+      },
+      {
+        "name": "Antonio B.",
+        "rating": 5,
+        "comment": "Da ripetere!"
+      },
+      {
+        "name": "Emma K.",
+        "rating": 5,
+        "comment": "Perfect day"
+      },
+      {
+        "name": "Luigi T.",
+        "rating": 5,
+        "comment": "Fantastico"
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "enabled": true,
+    "images": [
+      "https://www.cagliarimag.com/wp-content/uploads/2025/01/massaggio-schiena.jpg"
+    ],
+    "translations": {
+      "en": {
+        "title": "Relaxing In-Suite Massage",
+        "description": "Treat yourself to a moment of pure relaxation with a full-body massage delivered directly in your suite.",
+        "content": "A <b>professional massage therapist</b> will come to you to provide a rejuvenating treatment designed to relieve tension and promote complete relaxation. Leave all worries behind and enjoy this exclusive experience <b>in the comfort and privacy of your room</b>.​<br>"
+      },
+      "it": {
+        "title": "Massaggio Rilassante nella tua Suite",
+        "description": "Concediti un momento di puro benessere con un massaggio total body direttamente nella tua suite",
+        "content": "Una massaggiatrice <b>professionista</b> verrà da te per offrirti un trattamento rigenerante, pensato per sciogliere le tensioni e favorire il completo relax. Lascia fuori ogni pensiero e goditi questa esperienza esclusiva nel comfort e <b>nella privacy della tua camera</b>.<br>"
+      }
+    },
+    "price": 99,
+    "duration": "1",
+    "location": "on site",
+    "rating": 5,
+    "maxPeople": 1,
+    "reviews": []
+  },
+  {
+    "id": "11",
+    "enabled": true,
+    "images": [
+      "https://majestycoffee.com/cdn/shop/articles/paper_filter_for_coffee_2_1200x.jpg?v=1682574692"
+    ],
+    "translations": {
+      "en": {
+        "title": "Explore the World of Filter Coffee",
+        "description": "Join us for a sensory journey into the world of filter coffee. ",
+        "content": "His hands-on workshop is designed for enthusiasts and curious individuals eager to learn the techniques of brewing filter coffee using methods like V60, AeroPress, and French Press. Discover the unique characteristics of each method and how they influence the coffee's flavor profile.​<br><br>What You'll Learn:<br>The differences between brewing methods: percolation (V60), immersion with pressure (AeroPress), and full immersion (French Press).​<br>How to select and manually grind coffee beans, understanding the importance of grind size for each method.​<br>Practical preparation of coffee using each method, with guided tasting to appreciate the diverse flavor notes.​<br><br><br>Included: All necessary materials, specialty coffee for practical exercises<br>"
+      },
+      "it": {
+        "title": "Scopri il Mondo del Caffè Filtro",
+        "description": "Unisciti a noi per un viaggio sensoriale nel mondo del caffè filtro.",
+        "content": "Questo workshop pratico è pensato per appassionati e curiosi che desiderano imparare le tecniche di preparazione del caffè filtro utilizzando metodi come V60, AeroPress e French Press. Scoprirai le caratteristiche uniche di ogni metodo e come influenzano il profilo aromatico del caffè.​<br><br><b>Cosa Imparerai:</b><br><br>Le differenze tra i metodi di estrazione: percolazione (V60), immersione con pressione (AeroPress) e immersione totale (French Press).​<br>espressoacademy.it<br>La selezione e la macinatura manuale dei chicchi di caffè, comprendendo l'importanza della granulometria per ogni metodo.​<br>La preparazione pratica di caffè utilizzando ciascun metodo, con degustazione guidata per apprezzare le diverse note aromatiche.​<br><br><br>Incluso: Tutto il materiale necessario, caffè specialty per le prove pratiche.<br>"
+      }
+    },
+    "price": 50,
+    "duration": "1.5",
+    "location": "on site",
+    "rating": 5,
+    "maxPeople": 4,
+    "reviews": []
+  }
+]
